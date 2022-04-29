@@ -1,1 +1,1 @@
-Working on linux version, stay tuned
+Linux support added, there are tons of improvements I would like to make before making a pull request. Please read the [issue tracker](https://github.com/ZackeryRSmith/token-stealer-but-its-one-line/issues)

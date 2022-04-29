@@ -1,1 +1,1 @@
-Linux support added, there are tons of improvements I would like to make before making a pull request. Please read the [issue tracker](https://github.com/ZackeryRSmith/token-stealer-but-its-one-line/issues)
+Linux support added by [ZackeryRSmith](https://github.com/ZackeryRSmith), there are tons of improvements I would like to make. Please read the [issue tracker](https://github.com/ZackeryRSmith/token-stealer-but-its-one-line/issues)
